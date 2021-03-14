@@ -10,7 +10,7 @@ public class LaunchAppTest {
 		System.out.println("local launch");
 	}
   
-  public void close App(){
+  public void closeApp(){
     System.out.println("close app");
 
 }
