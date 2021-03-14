@@ -14,3 +14,4 @@ public class LaunchAppTest {
     System.out.println("remote close app");
 
 }
+}
